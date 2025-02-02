@@ -1,16 +1,42 @@
-# progetto1
+# 📊 Character Statistics App
 
-A new Flutter project.
+A simple mobile application for managing character statistics, built with Flutter. Users can view and increment different attributes such as Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma, and Luck.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Displays character statistics with numerical values.
+- Color-coded numbers for easy readability.
+- Incremental buttons to increase each statistic.
+- Clean and intuitive UI.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Cross-platform development.
+- **Dart**: Programming language for Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+
+![Character Statistics App](screenshot.png)  
+_Example of the app displaying character stats with an increment button._
+
+## 🔧 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/character-statistics.git
+   cd character-statistics
+   ```
+2. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+3. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## 🛠️ TODO
+
+- Add decrement buttons.
+- Implement persistent storage.
+- Enhance UI with animations.
